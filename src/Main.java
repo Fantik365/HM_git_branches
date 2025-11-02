@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("hallo world");
+        System.out.println("hallo world from task 2");
         System.out.println("hallo world from task 3");
     }
 }
